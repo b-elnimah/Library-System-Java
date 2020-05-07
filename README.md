@@ -1,2 +1,2 @@
 # Library-System-Java
-This system implements a Java system using Java and Window Builder.  
+This system implements a Library System using Java and Window Builder.  
